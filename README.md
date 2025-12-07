@@ -1,16 +1,46 @@
-## Hi there 👋
+## 👋 Hey, I'm Gagan!
 
-<!--
-**Gagan-J-U/Gagan-J-U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student who loves building things with code — from full-stack web apps to cross-platform mobile apps. Currently learning Node.js, Flutter, MERN stack and actively working on real projects to improve my dev skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 What I'm currently working on
+- Full-stack MERN apps
+- Flutter mobile apps
+- Backend engineering
+- Learning Cloud + APIs
+
+### 🚀 Interests
+- Web development
+- Mobile development
+- AI + Backend integration
+- Authentication systems
+
+---
+
+## 🛠 Tech Stack
+- JavaScript, Dart
+- Node.js, Express
+- MongoDB
+- Flutter, Firebase
+- HTML, CSS, Bootstrap
+
+---
+
+## 📊 My LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/GaganJU?theme=dark&ext=activity)
+
+🔗 Profile: https://leetcode.com/u/GaganJU/
+
+---
+
+## 🌐 Connect with me  
+
+🔹 LinkedIn → https://www.linkedin.com/in/gagan-j-u  
+🔹 GitHub → https://github.com/Gagan-J-U  
+🔹 LeetCode → https://leetcode.com/u/GaganJU/  
+
+---
+
+> “The best way to learn is by building. I'm building every day 🚀”
